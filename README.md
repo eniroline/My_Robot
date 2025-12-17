@@ -5,6 +5,8 @@ uv add robotframework-seleniumlibrary
 uv add selenium
 uv add webdriver-manager
 
+Install plugin (PyCharm -> Settings -> Plugins) "IntelliBot #patched"   (or "Robot Framework Language Server" (not used)(extra settings required))
+
 
 pyproject.toml file will be updated with dependencies:
 [project]
